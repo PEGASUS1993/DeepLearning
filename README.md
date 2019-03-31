@@ -1,23 +1,30 @@
 # DeepLearning
 
 ## 入门资料   
-  
+
+### 快速入门
+* [《斯坦福大学深度学习基础教程》 Andrew Ng（吴恩达）](https://github.com/Mikoto10032/DeepLearning/blob/master/books/斯坦福大学-深度学习基础教程.pdf)  
+* [机器学习 吴恩达 Coursera个人笔记](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%5BML-Coursera%5D%5B2014%5D%5BAndrew%20Ng%5D/%5B2014%5D%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0%E5%AE%8C%E6%95%B4%E7%89%88v5.1.pdf)  
+    * [视频（含官方笔记）](https://www.coursera.org/learn/machine-learning)  
+* [深度学习 吴恩达 个人笔记](http://www.ai-start.com/dl2017/)  
+    * [视频](http://mooc.study.163.com/smartSpec/detail/1001319001.htm)
+* [Practical Deep Learning for Coders, v3](https://course.fast.ai/)
+* [深度学习 李飞飞 已授权个人翻译笔记](https://zhuanlan.zhihu.com/p/21930884)        
+    * [视频](http://study.163.com/course/courseMain.htm?courseId=1003223001)
+* [百页机器学习](http://themlbook.com/wiki/doku.php)
+* [MIT深度学习基础-2019视频课程](https://deeplearning.mit.edu/)
+* [NLP入门推荐书目（2019版）](https://zhuanlan.zhihu.com/p/58874484)
+
+### 仔细研读
 * [1. 《深度学习》 Yoshua Bengio.Ian GoodFellow](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.Yoshua%20Bengio%2BIan%20GoodFellow.pdf)      
 * [2. 《机器学习》 周志华](https://github.com/Mikoto10032/DeepLearning/blob/master/books/机器学习周志华.pdf)        
-* [3. 《神经网络与深度学习》 Michael Nielsen](https://github.com/Mikoto10032/DeepLearning/blob/master/books/神经网络和深度学习neural%20networks%20and%20deep-learning-中文_ALL.pdf)    
-* [4. 《斯坦福大学深度学习基础教程》 Andrew Ng（吴恩达）](https://github.com/Mikoto10032/DeepLearning/blob/master/books/斯坦福大学-深度学习基础教程.pdf)      
+* [3. 《神经网络与深度学习》 Michael Nielsen](https://github.com/Mikoto10032/DeepLearning/blob/master/books/神经网络和深度学习neural%20networks%20and%20deep-learning-中文_ALL.pdf)      
 * [5. 《模式识别与机器学习》 Christopher Bishop](https://github.com/Mikoto10032/DeepLearning/blob/master/books/模式识别与机器学习PRML_Chinese_vision.pdf)
 * [6. 《Tensorflow实战Google深度学习框架》 郑泽宇 顾思宇](https://github.com/Mikoto10032/DeepLearning/blob/master/books/Tensorflow%20实战Google深度学习框架.pdf)
 * [7. 《机器学习实战》 PelerHarrington](https://github.com/Mikoto10032/DeepLearning/blob/master/books/机器学习实战%20中文双页版.pdf)
 * [8. 机器学习 吴恩达 cs229个人笔记](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%5BML-CS229%5D%5B2011%5D%5BAndrew%20NG%5D/%5B2011%5D%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%BE%E7%A8%8B%E4%B8%AA%E4%BA%BA%E7%AC%94.pdf)
    * [官网（笔记）](http://cs229.stanford.edu/)  
-   * [视频（中文字幕）](http://open.163.com/special/opencourse/machinelearning.html)
-* [9. 机器学习 吴恩达 Coursera个人笔记](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%5BML-Coursera%5D%5B2014%5D%5BAndrew%20Ng%5D/%5B2014%5D%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0%E5%AE%8C%E6%95%B4%E7%89%88v5.1.pdf)  
-    * [视频（含官方笔记）](https://www.coursera.org/learn/machine-learning)      
-* [10. 深度学习 吴恩达 个人笔记](http://www.ai-start.com/dl2017/)  
-    * [视频](http://mooc.study.163.com/smartSpec/detail/1001319001.htm)
-* [11. 深度学习 李飞飞 已授权个人翻译笔记](https://zhuanlan.zhihu.com/p/21930884)        
-    * [视频](http://study.163.com/course/courseMain.htm?courseId=1003223001)
+   * [视频（中文字幕）](http://open.163.com/special/opencourse/machinelearning.html)    
 * [12. 台湾大学（NTU）李宏毅教授课程](http://speech.ee.ntu.edu.tw/~tlkagk/index.html)	
 * [13. 《自然语言处理》Jacob Eisenstein](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86.Jacob%20Eisenstein.pdf)		
 * [14. 《强化学习》](https://github.com/Mikoto10032/DeepLearning/blob/master/books/Reinforcement%20Learning.Sutton.pdf)	
@@ -35,6 +42,7 @@
 * [3. colah's blog](http://colah.github.io/)
 * [4. Model Zoom](https://modelzoo.co/)
 * [5. DNN概述](https://zhuanlan.zhihu.com/p/29141828)
+* [6. 从基本原理到梯度下降，小白都能看懂的神经网络教程](https://zhuanlan.zhihu.com/p/59385110)
 
 ### CNN     
 
@@ -62,6 +70,7 @@
 	* [基于深度学习的目标检测算法综述（二）](https://zhuanlan.zhihu.com/p/40020809)
 	* [基于深度学习的目标检测算法综述（三）](https://zhuanlan.zhihu.com/p/40102001)
 * [如何走近深度学习人脸识别？你需要这篇超长综述 | 附开源代码](https://zhuanlan.zhihu.com/p/35295839)    
+* [深度学习图像超分辨率综述](https://zhuanlan.zhihu.com/p/57564211)
 
 #### 教程     
 
@@ -69,8 +78,10 @@
 * [变形卷积核、可分离卷积](https://zhuanlan.zhihu.com/p/28749411)
 * [对深度可分离卷积、分组卷积、扩张卷积、转置卷积（反卷积）的理解](https://blog.csdn.net/chaolei3/article/details/79374563)
 * [各种卷积](https://www.cnblogs.com/cvtoEyes/p/8848815.html)
+* [卷积有多少种？一文读懂深度学习中的各种卷积](https://zhuanlan.zhihu.com/p/57575810)
 * [反卷积](https://buptldy.github.io/2016/10/29/2016-10-29-deconv/) 
 * [Convolution Network及其变种（反卷积、扩展卷积、因果卷积、图卷积）](https://www.cnblogs.com/yangperasd/p/7071657.html)
+* [深度学习基础--卷积类型](https://zhuanlan.zhihu.com/p/59839551)
 * [Dilated/Atrous conv 空洞卷积/多孔卷积](https://blog.csdn.net/silence2015/article/details/79748729)
 * [CNN模型之ShuffleNet](https://zhuanlan.zhihu.com/p/32304419)  
 * [一文简述ResNet及其多种变体](https://zhuanlan.zhihu.com/p/35985680)
@@ -80,6 +91,7 @@
 * [R-CNN论文详解](https://blog.csdn.net/u014696921/article/details/52824097)         
 * [深度学习（六十四）Faster R-CNN物体检测](https://blog.csdn.net/hjimce/article/details/73382553)
 * [先理解Mask R-CNN的工作原理，然后构建颜色填充器应用](https://zhuanlan.zhihu.com/p/34816076)
+* [实例分割--Mask RCNN详解（ROI Align / Loss Function]）](https://www.codetd.com/article/2554465)
 * [人脸检测和识别算法综述]()      
     * [人脸检测算法综述 ](https://zhuanlan.zhihu.com/p/36621308)          
     * [人脸检测背景介绍和发展现状](https://zhuanlan.zhihu.com/p/32702868)
@@ -169,6 +181,7 @@
     * [word2vec原理(二) 基于Hierarchical Softmax的模型](http://www.cnblogs.com/pinard/p/7243513.html)        
     * [word2vec原理(三) 基于Negative Sampling的模型 ](http://www.cnblogs.com/pinard/p/7249903.html)        
     * [用gensim学习word2vec ](http://www.cnblogs.com/pinard/p/7278324.html)        
+* [[整理] 聊聊 Transformer](https://zhuanlan.zhihu.com/p/47812375)
 
 #### Action     
 
@@ -205,7 +218,7 @@
 * [5. 最优化算法系列（math）](https://blog.csdn.net/chunyun0716/article/category/6188191/2)
 * [6. 神经网络训练中的梯度消失与梯度爆炸](https://zhuanlan.zhihu.com/p/25631496)        
 * [7. 神经网络的优化及训练](https://zhuanlan.zhihu.com/p/36050743)
-* [8. 通俗讲解查全率和查准率](https://zhuanlan.zhihu.com/p/35888543)
+* [8. 通俗讲解查全率和查准率](https://zhuanlan.zhihu.com/p/35888543), [全面梳理：准确率,精确率,召回率,查准率,查全率,假阳性,真阳性,PRC,ROC,AUC,F1](https://zhuanlan.zhihu.com/p/34079183)
 * [9. 激活函数一览](https://zhuanlan.zhihu.com/p/30567264)
 * [10. Coursera吴恩达《优化深度神经网络》课程笔记（3）-- 超参数调试、Batch正则化和编程框架](https://zhuanlan.zhihu.com/p/30922689)
 * [11. 机器学习各种熵](https://zhuanlan.zhihu.com/p/35423404)
@@ -215,7 +228,7 @@
 * [15. 损失函数整理](https://zhuanlan.zhihu.com/p/35027284)
 * [16. 详解残差块为何有助于解决梯度弥散问题](https://zhuanlan.zhihu.com/p/28124810)
 * [17. FAIR何恺明等人提出组归一化：替代批归一化，不受批量大小限制](https://zhuanlan.zhihu.com/p/34858971)
-* [18. Batch Normalization（BN）]():[1 ](https://zhuanlan.zhihu.com/p/26702482),[2 ](https://blog.csdn.net/hjimce/article/details/50866313),[3 ](https://blog.csdn.net/malefactor/article/details/51476961),[4 ](https://blog.csdn.net/edogawachia/article/details/80040456), [5](https://zhuanlan.zhihu.com/p/38176412)
+* [18. Batch Normalization（BN）]():[1 ](https://zhuanlan.zhihu.com/p/26702482),[2 ](https://blog.csdn.net/hjimce/article/details/50866313),[3 ](http://www.cvmart.net/community/article/detail/368),[4 ](https://blog.csdn.net/edogawachia/article/details/80040456), [5](https://zhuanlan.zhihu.com/p/38176412), [6](https://www.zhihu.com/question/38102762), [7](https://zhuanlan.zhihu.com/p/52132614)
 * [19. 详解深度学习中的Normalization，不只是BN](https://zhuanlan.zhihu.com/p/33173246)
 * [20. BFGS](https://blog.csdn.net/philosophyatmath/article/details/70173128)
 * [21. 详解深度学习中的梯度消失、爆炸原因及其解决方法](https://zhuanlan.zhihu.com/p/33006526)
@@ -238,6 +251,7 @@
 	* [论文笔记:Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://www.jianshu.com/p/294ad9ae2e50)
 	* [CV：基于Keras利用训练好的hdf5模型进行目标检测实现输出模型中的表情或性别的gradcam(可视化)](https://blog.csdn.net/qq_41185868/article/details/80323646)
 * [大卷积核还是小卷积核?]() [1](https://www.jianshu.com/p/d75375dd7ebd), [2](https://blog.csdn.net/kuangtun9713/article/details/79475457)	
+* [模型可解释性差？你考虑了各种不确定性了吗？](https://baijiahao.baidu.com/s?id=1608193373391996908)
 	
 ## 机器学习、深度学习基础理论    
 
@@ -246,7 +260,24 @@
 * [1. 机器学习中的各种熵](https://zhuanlan.zhihu.com/p/35423404)    
 * [2. 从香农熵到手推KL散度：纵览机器学习中的信息论](https://zhuanlan.zhihu.com/p/32985487)
 
-## 深度学习相关算法    
+## 深度学习相关算法
+
+### 多任务学习
+* [模型汇总-14 多任务学习-Multitask Learning概述](https://zhuanlan.zhihu.com/p/27421983)
+* [[译]深度神经网络的多任务学习概览(An Overview of Multi-task Learning in Deep Neural Networks)](http://www.cnblogs.com/shuzirank/p/7141017.html)
+
+### 零次学习(Zero Shot Learning)
+* [零次学习（Zero-Shot Learning）入门](https://zhuanlan.zhihu.com/p/34656727)
+
+### 多视觉学习(Multi-View Learning)
+* [Multi-view Learning 多视角学习入门](https://blog.csdn.net/danliwoo/article/details/79278574)
+* [多视角学习 (Multi-View Learning)](https://blog.csdn.net/shine19930820/article/details/77426599)
+
+### word2vec
+* [词嵌入（word2vec）](https://zh.diveintodeeplearning.org/chapter_natural-language-processing/word2vec.html)
+* [谈谈谷歌word2vec的原理](https://blog.csdn.net/wangyangzhizhou/article/details/77073023)
+* [如何用TensorFlow训练词向量](https://blog.csdn.net/wangyangzhizhou/article/details/77530479?locationNum=1&fps=1)
+* [自然语言处理入门 word2vec 使用tensorflow自己训练词向量](https://blog.csdn.net/wzdjsgf/article/details/79541492)
 
 ### SVD			
 
@@ -295,15 +326,17 @@
 * [马尔科夫决策过程之Markov Decision Process(马尔科夫决策过程)](https://zhuanlan.zhihu.com/p/35354956)
 * [马尔科夫决策过程之最优价值函数与最优策略](https://zhuanlan.zhihu.com/p/35373905)
 
-### 推荐算法      	
+### 推荐系统      	
 
-* [推荐算法相关的文档整理](https://zhuanlan.zhihu.com/p/29969721)              
+* [推荐算法相关的文档整理](https://zhuanlan.zhihu.com/p/29969721)
+* [Embedding从入门到专家必读的十篇论文](https://zhuanlan.zhihu.com/p/58805184)
 
 ### 自然语言处理（NLP）		
 
 * [基于word2vec训练词向量(一)](https://zhuanlan.zhihu.com/p/35648927)
 * [基于word2vec训练词向量(二)](https://zhuanlan.zhihu.com/p/35889385)
-* [自然语言处理中的自注意力机制（Self-Attention Mechanism）](https://zhuanlan.zhihu.com/p/35041012)      
+* [自然语言处理中的自注意力机制（Self-Attention Mechanism）](https://zhuanlan.zhihu.com/p/35041012)    
+* [自然语言处理中注意力机制综述](https://zhuanlan.zhihu.com/p/54491016)
 * [YJango的Word Embedding--介绍](https://zhuanlan.zhihu.com/p/27830489)          
 * [CMU&谷歌大脑提出新型问答模型QANet](https://zhuanlan.zhihu.com/p/37168143)          
 
@@ -382,6 +415,10 @@
 * [谱聚类（Spectral Clustering）算法介绍](https://blog.csdn.net/qq_24519677/article/details/82291867)
 * [聚类5--谱和谱聚类](https://blog.csdn.net/xueyingxue001/article/details/51966980)
 
+## 年度总结
+* [新年大礼包：机器之心2018高分教程合集](https://zhuanlan.zhihu.com/p/53717510)   
+* [CVPR2019目标检测方法进展综述](https://zhuanlan.zhihu.com/p/59376548)
+
 ## 工具平台使用  
 
 ### Tensorflow		
@@ -398,6 +435,9 @@
 * [廖雪峰Python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 * [菜鸟教程](http://www.runoob.com/python3/python3-tutorial.html)                        
 
+### Python Matplotlib可视化
+* [Top 50 matplotlib Visualizations – The Master Plots (with full python code)](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)
+
 ### 标注工具
 * BoundingBox
 	* [labelImg](https://github.com/tzutalin/labelImg)
@@ -413,9 +453,30 @@
 * [5. ACL 2018资源：100+ 预训练的中文词向量](https://zhuanlan.zhihu.com/p/36835964)
 * [6. 预训练中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)
 * [7. 公开数据集种子库](http://academictorrents.com)
-* [8. 数据集】计算机视觉，深度学习，数据挖掘数据集整理](https://blog.csdn.net/c20081052/article/details/79814082)
+* [8. 计算机视觉，深度学习，数据挖掘数据集整理](https://blog.csdn.net/c20081052/article/details/79814082)
 * [9. 计算机视觉著名数据集CV Datasets](https://blog.csdn.net/accepthjp/article/details/51831026)
 * [10. 计算机视觉相关数据集和比赛](https://blog.csdn.net/NNNNNNNNNNNNY/article/details/68485160)
 * [11. 这是一份非常全面的开源数据集，你，真的不想要吗？](https://zhuanlan.zhihu.com/p/43846002)
 * [12. 人群密度估计现有主要数据集特点及其比较](https://blog.csdn.net/weixin_40516558/article/details/81564464)
 * [13. DANBOORU2017: A LARGE-SCALE CROWDSOURCED AND TAGGED ANIME ILLUSTRATION DATASET](https://www.gwern.net/Danbooru2017)
+* [14. 行人重识别数据集](http://robustsystems.coe.neu.edu/sites/robustsystems.coe.neu.edu/files/systems/projectpages/reiddataset.html)
+* [15. 自然语言处理常见数据集、论文最全整理分享](https://zhuanlan.zhihu.com/p/56144877)
+* [16. paper, code, sota](https://paperswithcode.com/)
+* [17. 旷视RPC大型商品数据集发布！](https://zhuanlan.zhihu.com/p/55627416)
+* [18. CVPR 2019「准满分」论文：英伟达推出首个跨摄像头汽车跟踪数据集(汽车Re-ID)](https://zhuanlan.zhihu.com/p/60617001)
+
+## 会议列表
+* [国际会议日期表](https://github.com/JackieTseng/conference_call_for_paper)
+* [ai-deadlines](https://github.com/abhshkdz/ai-deadlines/)
+* [Keep Up With New Trends](https://handong1587.github.io/deep_learning/2017/12/18/keep-up-with-new-trends.html)
+* [计算机会议排名等级](https://blog.csdn.net/cserchen/article/details/40508181)
+* [中国计算机学会(CCF)推荐国际学术刊物和会议](https://www.ccf.org.cn/xspj/rgzn/)
+
+## 论文写作
+* [刘知远_如何写一篇合格的NLP论文](https://zhuanlan.zhihu.com/p/58752815)
+* [刘洋_如何写论文_V7](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)
+* [论文Introduction写作其一](https://zhuanlan.zhihu.com/p/33876355), [论文Introduction写作其二](https://zhuanlan.zhihu.com/p/52494933), [论文Introduction写作其三](https://zhuanlan.zhihu.com/p/52494879)
+
+## 生活使我健步如飞.jpg
+- [ ] 有空再整理下整个列表的结构, 再收集下深度学习和机器学习入门的系列教程, 并附以代码实现, 争取全面而简单上手
+- [ ] 本学期学完《docker_practice》
